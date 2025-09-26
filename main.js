@@ -59,7 +59,7 @@
               },
               title: {
                 display: true,
-                text: 'Language Breakdown (Excluding Hidden)',
+                text: 'Language Breakdown',
                 color: '#00ffcc',
                 font: { size: 18 }
               }
