@@ -1,4 +1,3 @@
-<script>
     const username = "TheRealDuckers";
     const apiKey = "0bc8bd5a-463d-4a8a-be8b-457ef651742d";
 
@@ -113,4 +112,3 @@
       .catch(err => {
         console.error("Error loading stats:", err);
       });
-  </script>
