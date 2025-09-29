@@ -1,5 +1,5 @@
-    const username = "TheRealDuckers";
-    const apiKey = "0bc8bd5a-463d-4a8a-be8b-457ef651742d";
+    const username = "YOUR USERNAME";
+    const apiKey = "YOUR API KEY (FROM HACKATIME SETTINGS)";
 
     const excludedProjects = ["MySecretProject"];
     const excludedLanguages = ["Other", "<<LAST_LANGUAGE>>"];
